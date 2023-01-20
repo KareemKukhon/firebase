@@ -1,4 +1,4 @@
-# flutter_application_18_firebase
+# Ecommerce app
 
 A new Flutter project.
 
